@@ -1,0 +1,81 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.navbar {
+  background-color: #fdfdfd;
+  padding: 30px;
+  letter-spacing: 2px;
+}
+.hero {
+  background-color: #fdfdfd;
+  width: 100%;
+  letter-spacing: 2px;
+}
+/* .img-fluid { */
+/* box-shadow: 0 10px 20px 0 black;  */
+/* } */
+.history {
+  background-color: #f5f5f7;
+}
+.history .card {
+  background-color: #f5f5f7;
+  /* box-shadow: 0 10px 20px 0 black; */
+}
+.section {
+  background-color: #ffffff;
+  width: 100%;
+}
+.imaag {
+  /* box-shadow: 0 10px 20px 0 black; */
+  width: 100%;
+  height: auto;
+}
+.section .brnd {
+  box-shadow: 0 10px 20px 0 black;
+  letter-spacing: 2px;
+  width: 100%;
+  gap: 20%;
+}
+.brnd:hover {
+  zoom: 90%;
+  color: rgb(202, 128, 128);
+}
+.socio h1 {
+  text-align: center;
+}
+.socio {
+  background-color: #f5f5f7;
+}
+.gallery {
+  height: 100%;
+}
+.gallery:hover {
+  zoom: 90%;
+}
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+.arts {
+  background-color: #fdfdfd;
+}
+.bgg {
+  background-color: #fdfdfd;
+}
+.immgg {
+  height: 100%;
+}
+.quote {
+  background-color: #f5f5f7;
+  width: 100%;
+}
+.footer {
+  background-color: #fdfdfd;
+}
+.txtt {
+  color: rgb(164, 78, 78);
+}
+.txtt:hover {
+  zoom: 90%;
+}
